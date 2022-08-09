@@ -18,14 +18,14 @@ The base url is: <https://capital-finder-xi.vercel.app/api/>
 
 To search a country by name, use the following url. Enter the country name after `name=`.
 
-<https://capital-finder-xi.vercel.app/country?name={country-name}>
+<https://capital-finder-xi.vercel.app/api/country?name={country-name}>
 
-Example: <https://capital-finder-xi.vercel.app/country?name=chile>
+Example: <https://capital-finder-xi.vercel.app/api/country?name=chile>
 
 #### Capital Search
 
 To search for a country by its capital, use the following url. Enter the country name after `capital=`.
 
-<https://capital-finder-xi.vercel.app/capital?capital={capital}>
+<https://capital-finder-xi.vercel.app/api/capital?capital={capital}>
 
-Example: <https://capital-finder-xi.vercel.app/capital?capital=santiago>
+Example: <https://capital-finder-xi.vercel.app/api/capital?capital=santiago>
